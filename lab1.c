@@ -1,4 +1,4 @@
 main()
 {
-	printf("Hello CKM");
+	hi
 }
