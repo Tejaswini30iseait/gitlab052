@@ -1,4 +1,5 @@
 Hii 
 {
 	void()
-	{
+}
+printf(hello)
